@@ -1,1 +1,1 @@
-# LGMVIP---JAVA--Tic-Tac-Toe
+# LGMVIP-JAVA-Tic-Tac-Toe
